@@ -1,0 +1,12 @@
+google-generativeai            # Gemini adapter
+langchain
+langgraph
+langsmith
+chromadb
+yfinance
+finnhub-python
+langchain-community           # tavily tool (if available)
+streamlit
+pydantic
+pytest
+python-dotenv
